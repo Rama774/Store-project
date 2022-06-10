@@ -29,4 +29,6 @@ The project is a website to buy sports shoes..
 ![Nike Shoes 3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0uFYlCV-pbGpsLHXtZ3ruGg9K_Qz0Al0iPesNjt211Pfw-qkK8KtwufuiDW1sg7brE4&usqp=CAU)
 ![Nike Shoes 4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq9OKjZV54sZeKeDcUD8SrhNPe-prc9Y-uDw&usqp=CAU)
 ![Adidas Shoes 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRan6VeQaehgPSF2TiUGKM3WnNCxqWeh1nevA&usqp=CAU)
-![Adidas Shoes 3](https://assets.adidas.com/images/w_600,f_auto,q_auto/249ddf9b33e9411f949aaba60161b365_9366/Puremotion_Shoes_Grey_FW8667_01_standard.jpg)
+![Adidas Shoes 2](https://d25pt32odk9v9w.cloudfront.net/media/catalog/product/cache/affad9f68484fb8096f6b38ef2d69044/g/z/gz0602_1.jpg)
+
+
