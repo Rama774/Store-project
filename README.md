@@ -21,7 +21,7 @@ The project is a website to buy sports shoes..
 
 
 
-#### images:
+#### Some images:
 
 ##### Click on the image to open
 ![Nike Shoes 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDOKoYvSvU_3DoJrFcqEnVfgaeKvM72aSALQ&usqp=CAU)
