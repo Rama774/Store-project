@@ -19,7 +19,6 @@ In this project I used:
 
 
 
-
 The images:
 
 
